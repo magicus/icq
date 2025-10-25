@@ -1,4 +1,4 @@
-# The ICQ Protocl Specification - Some Historical Notes
+# The ICQ Protocol Specification - Some Historical Notes
 
 Once upon a time, Instant Messaging (IM) was born on the Internet, and the name
 of the program that spearheaded that revolution was **ICQ**. The year was 1996.
