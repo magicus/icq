@@ -1,4 +1,4 @@
-# The ICQ Specification
+# The ICQ Protocl Specification - Some Historical Notes
 
 Once upon a time, Instant Messaging (IM) was born on the Internet, and the name
 of the program that spearheaded that revolution was **ICQ**. The year was 1996.
@@ -16,13 +16,19 @@ realized my research into the protocol had value in itself. I cleaned up my
 notes and published them on the net -- and received a tremendous response. I
 never got around to writing that clone. Instead, I started the `icq-devel`
 mailing list, and helped organize and connect developers and reverse engineers
-interested in working on ICQ clones.
+interested in working on ICQ clones. A fond memory from that time is the
+release of Xicq, where the author included a [thank-you list](xicq-readme.txt)
+with a handful of names — including Linus Torvalds, CmdrTaco, and me. :-)
 
-But nothing lasts forever. Mirabilis, the creators of ICQ, were acquired by
-AOL, who tried to merge it into their AIM instant messaging system. Other,
-incompatible protocols emerged -- Yahoo and MSN being the most popular -- and
-ICQ faded into obscurity.
+This was a fun, interesting and at times hectic period for me. But nothing
+lasts forever. Mirabilis, the creators of ICQ, were acquired by AOL, who tried
+to merge it into their AIM instant messaging system. Other, incompatible
+protocols emerged -- Yahoo and MSN being the most popular -- and ICQ faded into
+obscurity.
 
-Unfortunately, no archives of the `icq-devel` list seem to have survived, but
-at least an archived version of the latest (and last) update of the **[ICQ
-Protocol Specification](icq091.txt)** remains.
+Unfortunately, the archives from the active period of the `icq-devel` list seem
+to have been lost to time, but an archive from its later years is available on
+the [Internet
+Archive](https://web.archive.org/web/20091023184158/http://vic20.blipp.com/pipermail/icq-devel/).
+I’ve also preserved an archived copy of the latest (and last) update of the
+**[ICQ Protocol Specification](icq091.txt)** in this repository.
